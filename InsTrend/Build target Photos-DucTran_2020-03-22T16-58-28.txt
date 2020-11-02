@@ -1,0 +1,7 @@
+
+Showing All Issues
+
+Build target Photos-DucTran of project Photos-DucTran with configuration Debug
+error: SWIFT_VERSION '3.0' is unsupported, supported versions are: 4.0, 4.2, 5.0. (in target 'Photos-DucTran' from project 'Photos-DucTran')
+
+
