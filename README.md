@@ -14,7 +14,7 @@ ____
 
 ____
 
-![](https://im.wampi.ru/2022/08/03/Group-165.png)
+![](https://github.com/PavelLyutikov/InstaTrend/blob/master/Screenshot/Group%20165.png?raw=true)
 ____
 
 ### Requirements
