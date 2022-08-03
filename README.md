@@ -15,7 +15,6 @@ ____
 ____
 
 ![](https://im.wampi.ru/2022/08/03/Group-165.png)
-
 ____
 
 ### Requirements
