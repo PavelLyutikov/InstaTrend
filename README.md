@@ -1,9 +1,5 @@
 ## InstaTrend
 
-___
-
-_____
-
 this is my first project written in Swift. Which was created for the initial introduction to Xcode.
 
 ### Functions
@@ -18,7 +14,7 @@ ____
 
 ____
 
-![](/Users/pavellyutikov/Downloads/Group%20165.png)
+![](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1bv0l-qt1MaCJ4kRvPmX7BQ2ZKiX0wZnJ)
 
 ____
 
