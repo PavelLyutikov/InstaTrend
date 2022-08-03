@@ -14,7 +14,7 @@ ____
 
 ____
 
-![](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1bv0l-qt1MaCJ4kRvPmX7BQ2ZKiX0wZnJ)
+![](https://im.wampi.ru/2022/08/03/Group-165.png)
 
 ____
 
